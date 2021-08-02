@@ -1,0 +1,12 @@
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\bin\MCD\Debug\net5.0\UserLibrary.deps.json
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\bin\MCD\Debug\net5.0\UserLibrary.dll
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\bin\MCD\Debug\net5.0\ref\UserLibrary.dll
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\bin\MCD\Debug\net5.0\UserLibrary.pdb
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.csproj.AssemblyReference.cache
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.AssemblyInfoInputs.cache
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.AssemblyInfo.cs
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.csproj.CoreCompileInputs.cache
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.dll
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\ref\UserLibrary.dll
+C:\Users\evelyn\Desktop\Csharp-user-management-system\UserLibrary\obj\MCD\Debug\net5.0\UserLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UserSystem/1.0.0": {
+        "dependencies": {
+          "UserLibrary": "1.0.0"
+        },
+        "runtime": {
+          "UserSystem.dll": {}
+        }
+      },
+      "UserLibrary/1.0.0": {
+        "runtime": {
+          "UserLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
